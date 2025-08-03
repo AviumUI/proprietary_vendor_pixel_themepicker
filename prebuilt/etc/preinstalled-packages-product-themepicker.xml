@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <install-in-user-type package="com.google.pixel.livewallpaper">
+        <install-in user-type="FULL" />
+    </install-in-user-type>
+    <install-in-user-type package="com.google.android.apps.emojiwallpaper">
+        <install-in user-type="FULL" />
+    </install-in-user-type>
+    <install-in-user-type package="com.google.android.apps.wallpaper.pixel">
+        <install-in user-type="FULL" />
+    </install-in-user-type>
+    <install-in-user-type package="com.google.android.wallpaper.effects">
+        <install-in user-type="FULL" />
+    </install-in-user-type>
+</config>
