@@ -11,7 +11,8 @@ $(call inherit-product, vendor/pixel/themepicker/common/common-vendor.mk)
 
 # Overlay
 PRODUCT_PACKAGES += \
-	PixelLauncherOverlayThemePicker
+	PixelLauncherOverlayThemePicker \
+    SettingsOverlayThemePicker
 
 PRODUCT_COPY_FILES += \
     vendor/pixel/themepicker/prebuilt/etc/hiddenapi-package-whitelist-themepicker.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/sysconfig/google-hiddenapi-package-whitelist.xml \
