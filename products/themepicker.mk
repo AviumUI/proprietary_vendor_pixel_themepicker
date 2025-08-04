@@ -11,6 +11,7 @@ $(call inherit-product, vendor/pixel/themepicker/common/common-vendor.mk)
 
 # Overlay
 PRODUCT_PACKAGES += \
+	FrameworkOverlayThemePicker \
 	PixelLauncherOverlayThemePicker \
     SettingsOverlayThemePicker
 
