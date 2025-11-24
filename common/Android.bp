@@ -31,9 +31,9 @@ android_app_import {
 }
 
 android_app_import {
-	name: "WallpaperAIPrebuilt_10000342",
+	name: "WallpaperAIPrebuilt_10000372",
 	owner: "pixel/themepicker",
-	apk: "proprietary/product/app/WallpaperAIPrebuilt_10000342/WallpaperAIPrebuilt_10000342.apk",
+	apk: "proprietary/product/app/WallpaperAIPrebuilt_10000372/WallpaperAIPrebuilt_10000372.apk",
 	preprocessed: true,
 	presigned: true,
 	dex_preopt: {
@@ -43,9 +43,9 @@ android_app_import {
 }
 
 android_app_import {
-	name: "WallpaperEmojiPrebuilt-v4504",
+	name: "WallpaperEmojiPrebuilt-v5154",
 	owner: "pixel/themepicker",
-	apk: "proprietary/product/app/WallpaperEmojiPrebuilt-v4504/WallpaperEmojiPrebuilt-v4504.apk",
+	apk: "proprietary/product/app/WallpaperEmojiPrebuilt-v5154/WallpaperEmojiPrebuilt-v5154.apk",
 	preprocessed: true,
 	presigned: true,
 	dex_preopt: {

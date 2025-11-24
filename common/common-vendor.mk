@@ -9,8 +9,8 @@ PRODUCT_SOONG_NAMESPACES += \
 PRODUCT_PACKAGES += \
     PixelThemesStub2022_and_newer \
     PixelWallpapers2024 \
-    WallpaperAIPrebuilt_10000342 \
-    WallpaperEmojiPrebuilt-v4504 \
+    WallpaperAIPrebuilt_10000372 \
+    WallpaperEmojiPrebuilt-v5154 \
     PixelLiveWallpaperPrebuilt-26000013 \
     WallpaperEffect \
     WallpaperPickerGoogleRelease
